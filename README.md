@@ -6,3 +6,4 @@ En este curso vemos esto:
 * uno
 * dos
 * tres
+* utilizando el comando cherry pick
